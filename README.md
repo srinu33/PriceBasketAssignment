@@ -46,5 +46,5 @@ Open the Project in any IDE and Run the main class(SpringBoot app PriceBasket.ja
 Open Command Promp/Terminal and go to /target folder.
 Run below command
 
-target>java -jar PriceBasket-0.0.1-SNAPSHOT Apple Milk Bread
+target>java -jar PriceBasket-0.0.1-SNAPSHOT.jar Apple Milk Bread
 
